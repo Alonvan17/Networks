@@ -1,0 +1,57 @@
+{
+  "puzzleImage": "C:\\Users\\avg64\\OneDrive\\Documents\\רשתות\\images.jpeg",
+  "pieces": [
+    {
+      "id": 1,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "correctPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "width": 100,
+      "height": 100
+    },
+    {
+      "id": 2,
+      "position": {
+        "x": 100,
+        "y": 0
+      },
+      "correctPosition": {
+        "x": 100,
+        "y": 0
+      },
+      "width": 100,
+      "height": 100
+    },
+    {
+      "id": 3,
+      "position": {
+        "x": 0,
+        "y": 100
+      },
+      "correctPosition": {
+        "x": 0,
+        "y": 100
+      },
+      "width": 100,
+      "height": 100
+    },
+    {
+      "id": 4,
+      "position": {
+        "x": 100,
+        "y": 100
+      },
+      "correctPosition": {
+        "x": 100,
+        "y": 100
+      },
+      "width": 100,
+      "height": 100
+    }
+  ]
+}
